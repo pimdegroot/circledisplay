@@ -1,0 +1,1 @@
+This is Circuitpython code for driving the circle display. It uses a very safe driving sequence compared to the main readme

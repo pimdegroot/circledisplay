@@ -1,0 +1,1 @@
+A more complicate pattern to test the board. Note that this uses a less optimal sequence to drive the 74HC595 compared to the main readme.

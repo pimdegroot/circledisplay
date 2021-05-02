@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name switch)(type KiCad)(uri ${KIPRJMOD}/switch.pretty)(options "")(descr ""))
+  (lib (name silkscreen)(type KiCad)(uri ${KIPRJMOD}/silkscreen.pretty)(options "")(descr ""))
+)

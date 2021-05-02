@@ -1,0 +1,1 @@
+An arduino sketch to test out all the functions of the board. Useful for checking if the board is fully soldered.
