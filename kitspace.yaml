@@ -1,2 +1,5 @@
 gerbers: hardware/gerbers/
 bom: hardware/gerbers/circledisplay.csv
+eda:
+    type: kicad
+    pcb: hardware/circledisplay.kicad_pcb
